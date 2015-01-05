@@ -1,6 +1,6 @@
 {
-    "name": "cyleung/Easemob",
-    "description": "Easemob RESTFUL API SDK",
+    "name": "cyleung/easemob",
+    "description": "Easemob API SDK",
     "keywords": ["easemob", "huanxin", "api"],
     "license": "MIT",
     "authors": [
