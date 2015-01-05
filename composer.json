@@ -9,7 +9,7 @@
             "email": "269226841@qq.com"
         }
     ],
-    "version":"dev",
+    "version":"1.0.0",
     "require": {
         "php-curl-class/php-curl-class": "~2.1",
         "php": ">=5.3.0"
